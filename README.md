@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SphynxCrypto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in crypto
+- 🌱 I’m currently learning phyton
+- 💞️ I’m looking to collaborate on 😼
 - 📫 
 
 <!---
